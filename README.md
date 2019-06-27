@@ -4,9 +4,9 @@ What we will learn?
 
 	-	Basic React
 		-	Components
-			-	NAVBAR
-			-	Search Box
-			-	 Footer
+			*	NAVBAR
+			*	Search Box
+			*	 Footer
 		-	Events
 		-	Templates
 		-	Props
@@ -21,7 +21,7 @@ What we will learn?
 		-	Stores
 		-	Actions
 		-	Reducers
-		
+
 	-	Project
 		-	Plan/ Blog
 		-	Todo lists
