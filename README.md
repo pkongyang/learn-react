@@ -2,27 +2,27 @@
 
 What we will learn?
 
-	-	Basic React
+	-  Basic React
 		- Components
-			*	NAVBAR
-			*	Search Box
-			*	 Footer
+			* NAVBAR
+			* Search Box
+			* Footer
 		- Events
 		- Templates
 		- Props
 		- Forms
 
-	-	React Router
+	-  React Router
 		- Routes
 		- Route parameters
 		- Redirects
 
-	-	Redux
+	-  Redux
 		- Stores
 		- Actions
 		- Reducers
 
-	-	Project
+	-  Project
 		- Plan/ Blog
 		- Todo lists
 
