@@ -1,6 +1,6 @@
 # learn-react
 
-#What is React?
+# What is React?
 #	-	JavaScript library create by Facebook.
 #	-	Also used by Netflix & Instagram
 #	-	Used to create JS-driven dynamic web apps
