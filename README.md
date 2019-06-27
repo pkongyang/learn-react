@@ -1,6 +1,7 @@
 # learn-react
 
 What we will learn?
+
 	-	Basic React
 		-	Components
 			-	NAVBAR
@@ -10,14 +11,17 @@ What we will learn?
 		-	Templates
 		-	Props
 		-	Forms
+
 	-	React Router
 		-	Routes
 		-	Route parameters
 		-	Redirects
+
 	-	Redux
 		-	Stores
 		-	Actions
 		-	Reducers
+		
 	-	Project
 		-	Plan/ Blog
 		-	Todo lists
