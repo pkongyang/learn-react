@@ -41,3 +41,12 @@ What is Redux?
 		- UI state of the app
 
 
+Note:
+Create index.html
+- type "doc" -> tab
+- 2 Script of react
+- type div.#app -> tab
+
+VS CODE package recommend
+- ES7 React/Redux/GraphQL/React-Native snippets
+- Sublime Babel
