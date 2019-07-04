@@ -4,9 +4,18 @@ What we will learn?
 
 	-  Basic React
 		- Components
-			* NAVBAR
-			* Search Box
-			* Footer
+			- Basic Component
+				* NAVBAR
+				* Search Box
+				* Footer
+			- Component State
+				* JavaScript Objects
+				* Describes the current state of the component
+					+ data, UI-state
+				* The state of a component can be updated over time
+					+ a modal could close
+					+ the data we output could change
+
 		- Events
 		- Templates
 		- Props
@@ -50,3 +59,5 @@ Create index.html
 VS CODE package recommend
 - ES7 React/Redux/GraphQL/React-Native snippets
 - Sublime Babel
+
+React Dev Tools - Chrome add on
