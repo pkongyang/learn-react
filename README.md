@@ -49,6 +49,13 @@ What is Redux?
 		- data in the app
 		- UI state of the app
 
+Create React App
+>>npx create-react-app my-app
+>>cd my-app
+>>npm start
+Then open http://localhost:3000/
+When you're ready to deploy to production, create a minified bundle with 
+>>npm run build
 
 Note:
 Create index.html
